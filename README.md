@@ -2,7 +2,7 @@
 
 An educational, simulation-first 2D graphics processor implemented in VHDL-2008.
 
-> Status: repository skeleton and design plan only. The RTL files are intentionally empty until each milestone is implemented and verified.
+
 
 This project targets a small command-driven raster engine rather than claiming to be a modern general-purpose GPU. The first hardware goal is a 320×240, 8-bit indexed framebuffer scaled to 640×480 video output.
 
