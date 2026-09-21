@@ -1,0 +1,47 @@
+# GHDL and waveform files
+work-obj*.cf
+*.ghw
+*.vcd
+*.fst
+
+# ModelSim / Questa
+work/
+transcript
+vsim.wlf
+modelsim.ini
+
+# Vivado
+.Xil/
+*.jou
+*.log
+*.str
+*.dcp
+*.runs/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+
+# Quartus
+db/
+incremental_db/
+output_files/
+*.qws
+*.sof
+*.pof
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated frames
+frames/
+*.ppm
+*.png
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+
